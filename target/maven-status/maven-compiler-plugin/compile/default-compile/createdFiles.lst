@@ -1,0 +1,7 @@
+com\mycompany\cola\configuration\AppInitializer.class
+com\mycompany\cola\hibernate\HibernateUtil.class
+com\mycompany\cola\controllers\StudentController.class
+com\mycompany\cola\services\StudentService.class
+com\mycompany\cola\entities\Student.class
+com\mycompany\cola\configuration\AppConfig.class
+com\mycompany\cola\dao\StudentDAO.class
